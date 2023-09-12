@@ -1,0 +1,47 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co/H4WqxZ6/download.jpg",
+      "author": "John Doe",
+      "author_img": "https://i.ibb.co/7N01Q5C/download-1.jpg",
+      "posted_date": "2023-09-10",
+      "reading_time": "5 minutes",
+      "hashtags": ["technology", "programming"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co/1YcMGXV/download-5.jpg",
+      "author": "Jane Smith",
+      "author_img": "https://i.ibb.co/0QPMywM/download-2.jpg",
+      "posted_date": "2023-09-09",
+      "reading_time": "8 minutes",
+      "hashtags": ["travel", "adventure"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co/YTXF8m7/download-4.jpg",
+      "author": "Alice Johnson",
+      "author_img": "https://i.ibb.co/p1mJNY7/download-3.jpg",
+      "posted_date": "2023-09-08",
+      "reading_time": "6 minutes",
+      "hashtags": ["food", "cooking"]
+    },
+    {
+        "id": 4,
+        "cover": "https://i.ibb.co/ZT72wKB/download-3.jpg",
+        "author": "Michael Brown",
+        "author_img": "https://i.ibb.co/gtx7myH/download.jpg",
+        "posted_date": "2023-09-07",
+        "reading_time": "7 minutes",
+        "hashtags": ["health", "fitness"]
+      },
+      {
+        "id": 5,
+        "cover": "https://i.ibb.co/4P3KYz3/download-2.jpg",
+        "author": "Emily Wilson",
+        "author_img": "https://i.ibb.co/qRLqB4z/einstein.jpg",
+        "posted_date": "2023-09-06",
+        "reading_time": "10 minutes",
+        "hashtags": ["art", "creativity"]
+      }
+  ]
